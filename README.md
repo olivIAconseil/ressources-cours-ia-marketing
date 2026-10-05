@@ -19,10 +19,10 @@ Ouvre la page du fichier puis clique sur Download en haut à droite. Aucun compt
 Chaque module a sa page avec ses ressources classées et un avis pour chacune. Pépite, Utile ou Référence.
 
 ICN MKTG3007
-[lien à ajouter après publication]
+https://knotty-slime-bc2.notion.site/Ressources-ICN-MKTG3007-3f032cf4ade58008937cccba7ad5b7a8
 
 INSEEC Vision retail
-[lien à ajouter après publication]
+https://knotty-slime-bc2.notion.site/Ressources-INSEEC-Vision-retail-3f032cf4ade5809c8a58d743690970d2
 
 INSEEC Ciblage data
-[lien à ajouter après publication]
+https://knotty-slime-bc2.notion.site/Ressources-INSEEC-Ciblage-data-3f032cf4ade58027bcbfd9ff9ecdf425
